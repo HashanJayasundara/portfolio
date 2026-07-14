@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="<img width="1350" height="951" alt="image" src="https://github.com/user-attachments/assets/1844d988-754d-447d-9355-aac345814a06" />
-" alt="Logo" width="80" height="80">
+ <img width="1350" height="951" alt="image" src="https://github.com/user-attachments/assets/a63acb31-b266-421e-afef-85fdd0aae4b1" />
+
   <h3 align="center">Hashan Jayasundara — Developer Portfolio</h3>
 
   <p align="center">
     A premium, physics-driven, and highly optimized developer portfolio built with React, Vite, and Framer Motion.
     <br />
-    <a href="https://hashanjayasundara.dev"><strong>View Live Demo (Coming Soon) »</strong></a>
+    <a href="https://hashanjayasundara.vercel.app"><strong>View Live »</strong></a>
     <br />
   </p>
 </div>

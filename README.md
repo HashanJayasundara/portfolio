@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="public/vite.svg" alt="Logo" width="80" height="80">
+  <img src="<img width="1350" height="951" alt="image" src="https://github.com/user-attachments/assets/1844d988-754d-447d-9355-aac345814a06" />
+" alt="Logo" width="80" height="80">
   <h3 align="center">Hashan Jayasundara — Developer Portfolio</h3>
 
   <p align="center">

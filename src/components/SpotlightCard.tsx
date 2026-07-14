@@ -1,4 +1,4 @@
-import { useRef, useState, ComponentProps } from 'react';
+import { useRef, useState, type ComponentProps } from 'react';
 import { motion } from 'framer-motion';
 
 interface SpotlightCardProps extends ComponentProps<typeof motion.div> {

@@ -1,10 +1,10 @@
-import { motion } from 'framer-motion';
+
 import { ExternalLink, ArrowUpRight } from 'lucide-react';
 import { GitHubIcon } from './icons';
 import { Section } from './Section';
 import { PROJECTS } from '../lib/data';
 import { SpotlightCard } from './SpotlightCard';
-import { fadeInUp } from '../lib/animations';
+
 
 export function Projects() {
   return (

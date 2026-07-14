@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Heart, Terminal } from 'lucide-react';
+import { Heart } from 'lucide-react';
 import { PROFILE, NAV_LINKS } from '../lib/data';
 
 export function Footer() {

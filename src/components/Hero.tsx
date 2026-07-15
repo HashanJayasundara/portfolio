@@ -212,7 +212,8 @@ export function Hero() {
             </MagneticButton>
             <MagneticButton>
               <motion.a
-                href="/cv.pdf"  
+                href="/Hashan_Jayasundara_Premium_CV.pdf"
+                download="Hashan_Jayasundara_Premium_CV.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.03 }}
